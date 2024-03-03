@@ -2,6 +2,115 @@
     <head>
         <title class="headidk">BitMarket</title>
         <link rel="stylesheet" href="style.css" class="headidk">
+
+    <style>body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    height: 80px;
+    background-color: black;
+}
+
+.button {
+    background-color: #36bbce;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px 10px 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    color: black;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    display: flex;
+    width: 300px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.article-but {
+    display: flex;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin-left: 10px;
+    padding: 10px 75px 10px 75px;
+    justify-content: center;
+}
+
+footer {
+    background-color: #FFD073;
+    padding: ;
+}
+
+footer a {
+    margin-right: 15px;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+.skidki {
+    float: right;
+    margin-top: 25px;
+}
+
+nav a {
+    color: white;
+}
+
+article img {
+    width: 250px;
+    height: 200px;
+}
+
+article div {
+
+}</style>
     </head>
     <body>
         <header>         
